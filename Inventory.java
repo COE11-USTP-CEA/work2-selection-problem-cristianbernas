@@ -12,9 +12,9 @@ public class Inventory {
         item t4 = new item("Creamy White", "Coffee", 7.00f);
         item t5 = new item("Bear Brand", "Milk", 25.00f);
         item t6 = new item("winston", "Cigarette", 30.00f);
-  	    item t7 = new item("Hanzel", "Biscuit", 6.00f);
-  	    item t8 = new item("Whisper", "Napkin", 7.00f);
-  	    item t9 = new item("Downy", "Fabric Conditioner", 6.00f);
+        item t7 = new item("Hanzel", "Biscuit", 6.00f);
+        item t8 = new item("Whisper", "Napkin", 7.00f);
+        item t9 = new item("Downy", "Fabric Conditioner", 6.00f);
         item t10 = new item("Piatos", "Junk foods", 10.00f);
           
         List<item> inv = new ArrayList<item>();
